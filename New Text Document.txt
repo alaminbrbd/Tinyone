@@ -1,0 +1,59 @@
+
+psd to html/psd to bootstrap
+past to html responsive with bootstrap
+
+html, css, bootstrap, js/jq
+
+pt sans
+bold
+regular
+
+font-family: 'PT Sans', sans-serif;
+
+ color...................
+ black: #010101
+ ash: #898989
+ yellow: #fcdb00
+ navy: #313841
+
+header
+        xxl/xl/lg       md      sm/col
+            22          22         20
+menu
+
+slider----
+    xxl/xl/lg           md          sm/col
+
+h1      32              32          25
+h2      20              20          18 
+p       16              16          16/15
+icon    42              42          35
+pb          100         100         60
+
+
+
+========
+ problem: hover not appear on icon
+ c_h1: font weight not appear with value 700
+ ==
+
+
+ xxl 1440-1600-1800-2100
+ xl-1200
+ lg-1024
+ md-768
+ 
+ padding---
+ xxl/xl/lg 100-120      md 80       sm-col 50-70
+
+fteaute---
+        xxl/xl/lg       md       sm-col
+pt          100
+pb          120
+mt          70          50          30
+h1          32          32          25
+p           20          20          17
+
+icon        50          50          
+h           22          20          20/18
+p           16          16          16
