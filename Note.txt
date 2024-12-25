@@ -32,10 +32,7 @@ pb          100         100         60
 
 
 
-========
- problem: hover not appear on icon
- c_h1: font weight not appear with value 700
- ==
+
 
 
  xxl 1440-1600-1800-2100
@@ -57,3 +54,12 @@ p           20          20          17
 icon        50          50          
 h           22          20          20/18
 p           16          16          16
+
+
+
+========
+problem: hover not appear on icon
+c_h1: font weight not appear with value 700
+icon similiar find bt not work
+
+ ==
